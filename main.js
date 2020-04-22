@@ -15,3 +15,7 @@ console.log('FirstName');
 console.log('name');
 console.log('firstName');
 
+//CONSTANTS
+
+console.log('FIRST_NAME');
+
