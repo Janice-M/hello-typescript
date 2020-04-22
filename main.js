@@ -3,3 +3,8 @@ function logger() {
     ("Hello world bazenga");
 }
 logger();
+
+
+// pascal case
+
+console.log('Name');

@@ -3,4 +3,5 @@ function logger (){
 }
 logger();
 
-//NAMES SHALL NOT CONTAIN 
+//NAMES SHALL NOT CONTAIN WEIRD SYMBOL THINGS
+
