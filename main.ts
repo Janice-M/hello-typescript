@@ -1,7 +1,7 @@
 function logg (){
     console.log;("Hello world bazenga")
 }
-logger();
+logg();
 
 //NAMES SHALL NOT CONTAIN WEIRD SYMBOL THINGS
 
