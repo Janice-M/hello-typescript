@@ -1,4 +1,4 @@
-function logger (){
+function logg (){
     console.log;("Hello world bazenga")
 }
 logger();
