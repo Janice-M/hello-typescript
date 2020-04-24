@@ -8,3 +8,5 @@ logg();
  function math (){
      console.log (2*69);
  }
+
+ math ();
