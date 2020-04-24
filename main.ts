@@ -5,3 +5,4 @@ logg();
 
 //NAMES SHALL NOT CONTAIN WEIRD SYMBOL THINGS
 
+ function math ()
