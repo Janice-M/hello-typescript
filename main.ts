@@ -6,5 +6,5 @@ logg();
 //NAMES SHALL NOT CONTAIN WEIRD SYMBOL THINGS
 
  function math (){
-     console.log 
+     console.log (2*69);
  }
